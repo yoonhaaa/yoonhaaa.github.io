@@ -90,3 +90,12 @@ main {
 .last {
     border-bottom: 2rem;
 }
+.blog-post {
+    border: 1px solid #feffde;
+    border-radius: 5px;
+    margin: 2rem 0;
+    padding: 2rem;
+}
+.byline {
+    color: #153618;
+}
